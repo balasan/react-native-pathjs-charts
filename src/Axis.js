@@ -182,7 +182,7 @@ export default class Axis extends Component {
 
     const gridLines = options.showLines ? _.map(axis.lines, function (c, i) {
       return (
-               <Path key={'gridLines' + i} d={c.print()} strokeOpacity={options.opacity} stroke={options.gridColor} fill="none"/>
+               <Path key={'gridLines' + i} d={c.print()} strokeWidth={options.strokeWidth} strokeOpacity={options.opacity} stroke={options.gridColor} fill="none"/>
             )
     }) : []
 
