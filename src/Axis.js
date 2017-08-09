@@ -170,6 +170,7 @@ export default class Axis extends Component {
                       fontWeight={textStyle.fontWeight}
                       fontStyle={textStyle.fontStyle}
                       fill={textStyle.fill}
+                      stroke={textStyle.stroke}
                       textAnchor={textAnchor}>
                       {label}
                 </Text>}
