@@ -1,7 +1,65 @@
 # Change Log
 
-## [v0.0.30](https://github.com/capitalone/react-native-pathjs-charts/tree/v0.0.30) (2017-07-12)
-[Full Changelog](https://github.com/capitalone/react-native-pathjs-charts/compare/0.0.29...v0.0.30)
+## [0.0.34](https://github.com/capitalone/react-native-pathjs-charts/tree/0.0.34) (2018-02-18)
+[Full Changelog](https://github.com/capitalone/react-native-pathjs-charts/compare/0.0.33...0.0.34)
+
+**Closed issues:**
+
+- How i make a PR? [\#226](https://github.com/capitalone/react-native-pathjs-charts/issues/226)
+
+**Merged pull requests:**
+
+- added pie animation [\#227](https://github.com/capitalone/react-native-pathjs-charts/pull/227) ([melkayam92](https://github.com/melkayam92))
+- Update test snapshots to match current state [\#222](https://github.com/capitalone/react-native-pathjs-charts/pull/222) ([marzolfb](https://github.com/marzolfb))
+- feature: add interaction on line chart. [\#221](https://github.com/capitalone/react-native-pathjs-charts/pull/221) ([soloviola](https://github.com/soloviola))
+- Upgrade to.33 [\#212](https://github.com/capitalone/react-native-pathjs-charts/pull/212) ([marzolfb](https://github.com/marzolfb))
+
+## [0.0.33](https://github.com/capitalone/react-native-pathjs-charts/tree/0.0.33) (2017-11-29)
+[Full Changelog](https://github.com/capitalone/react-native-pathjs-charts/compare/0.0.32...0.0.33)
+
+**Closed issues:**
+
+- more Invariant Violation: Element type is invalid: expected a string \(for built-in components\) or a class/function \(for composite components\) but got: object. [\#209](https://github.com/capitalone/react-native-pathjs-charts/issues/209)
+- Unhandled Promise rejection due to babel-polyfill [\#195](https://github.com/capitalone/react-native-pathjs-charts/issues/195)
+- After Installing Error : \_reactNative.AsyncStorage.getItem\(..\).then\(..\).done is not a function [\#173](https://github.com/capitalone/react-native-pathjs-charts/issues/173)
+
+**Merged pull requests:**
+
+- Removed babel-polyfill and substituted with narrower imports [\#211](https://github.com/capitalone/react-native-pathjs-charts/pull/211) ([marzolfb](https://github.com/marzolfb))
+- Upgrade to latest rn and rnsvg dependencies and general cleanup [\#210](https://github.com/capitalone/react-native-pathjs-charts/pull/210) ([marzolfb](https://github.com/marzolfb))
+
+## [0.0.32](https://github.com/capitalone/react-native-pathjs-charts/tree/0.0.32) (2017-11-13)
+[Full Changelog](https://github.com/capitalone/react-native-pathjs-charts/compare/0.0.31...0.0.32)
+
+**Closed issues:**
+
+- Library causes app to crash when using await AsyncStorage.getItem\(STORAGE\_KEY\); [\#202](https://github.com/capitalone/react-native-pathjs-charts/issues/202)
+- How do I change the color of the grid? [\#191](https://github.com/capitalone/react-native-pathjs-charts/issues/191)
+- Changing default gray background to transparent [\#185](https://github.com/capitalone/react-native-pathjs-charts/issues/185)
+- gridColor applied to wrong axis [\#179](https://github.com/capitalone/react-native-pathjs-charts/issues/179)
+
+**Merged pull requests:**
+
+- Fix grid axis appearing on top of the lines [\#197](https://github.com/capitalone/react-native-pathjs-charts/pull/197) ([Minishlink](https://github.com/Minishlink))
+- Fix default pointRadius and add parameters to renderPoint [\#196](https://github.com/capitalone/react-native-pathjs-charts/pull/196) ([Minishlink](https://github.com/Minishlink))
+- Feature/improve smoothline chart [\#183](https://github.com/capitalone/react-native-pathjs-charts/pull/183) ([AmauryLiet](https://github.com/AmauryLiet))
+
+## [0.0.31](https://github.com/capitalone/react-native-pathjs-charts/tree/0.0.31) (2017-09-02)
+[Full Changelog](https://github.com/capitalone/react-native-pathjs-charts/compare/0.0.30...0.0.31)
+
+**Closed issues:**
+
+- The sort method cannot be invoked on an Immutable data structure. [\#178](https://github.com/capitalone/react-native-pathjs-charts/issues/178)
+- Build failed in RN 0.45.1 \(iOS\) [\#169](https://github.com/capitalone/react-native-pathjs-charts/issues/169)
+
+**Merged pull requests:**
+
+- New release for .31 [\#187](https://github.com/capitalone/react-native-pathjs-charts/pull/187) ([marzolfb](https://github.com/marzolfb))
+- Upgrade to RN 0.47.2 [\#184](https://github.com/capitalone/react-native-pathjs-charts/pull/184) ([Minishlink](https://github.com/Minishlink))
+- Upgrade to .30 [\#171](https://github.com/capitalone/react-native-pathjs-charts/pull/171) ([marzolfb](https://github.com/marzolfb))
+
+## [0.0.30](https://github.com/capitalone/react-native-pathjs-charts/tree/0.0.30) (2017-07-12)
+[Full Changelog](https://github.com/capitalone/react-native-pathjs-charts/compare/0.0.29...0.0.30)
 
 **Closed issues:**
 
@@ -136,7 +194,10 @@
 - Fix \#62 - adding Babel polyfill to fix undefined not a function error [\#64](https://github.com/capitalone/react-native-pathjs-charts/pull/64) ([marzolfb](https://github.com/marzolfb))
 
 ## [0.0.24](https://github.com/capitalone/react-native-pathjs-charts/tree/0.0.24) (2017-01-27)
-[Full Changelog](https://github.com/capitalone/react-native-pathjs-charts/compare/0.0.23...0.0.24)
+[Full Changelog](https://github.com/capitalone/react-native-pathjs-charts/compare/v0.0.24...0.0.24)
+
+## [v0.0.24](https://github.com/capitalone/react-native-pathjs-charts/tree/v0.0.24) (2017-01-27)
+[Full Changelog](https://github.com/capitalone/react-native-pathjs-charts/compare/0.0.23...v0.0.24)
 
 **Implemented enhancements:**
 
